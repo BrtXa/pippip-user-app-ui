@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "383241826957",
+    "project_id": "pippipsystem",
+    "storage_bucket": "pippipsystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383241826957:android:77545137e513a53e98a8c4",
+        "android_client_info": {
+          "package_name": "com.logistics.pipip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383241826957-llp3hu9f6q7uugbdmu10io6jff48uc81.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.logistics.pipip",
+            "certificate_hash": "06932f8d90c7121123779bfa6b7deef9009d77f9"
+          }
+        },
+        {
+          "client_id": "383241826957-9rcttcvh7mkebioou6lo5ahqtnos1g2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6XPi1n_YTp8E8gzXddPEnBMuYOFC77ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383241826957-9rcttcvh7mkebioou6lo5ahqtnos1g2p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "383241826957-1nsnitvnslfchf0jpu5efva8iurjerb2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dasg.fdh.gdas"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
